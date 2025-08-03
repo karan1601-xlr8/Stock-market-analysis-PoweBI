@@ -1,4 +1,4 @@
-# Power BI Stock Market Analysis Dashboard
+# Power BI Stock Market Analysis Dashboard by Karan Raj
 
 ## 📌 Project Overview
 The **Stock Market Analysis Dashboard** is a Power BI project designed to visualize stock market trends, analyze historical data, and provide actionable insights for investors. The dashboard integrates multiple data sources to track stock performance, compare indices, and analyze financial indicators over time.
